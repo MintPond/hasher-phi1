@@ -1,0 +1,1 @@
+module.exports = require('bindings')('hasherphi1.node');
